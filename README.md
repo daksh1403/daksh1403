@@ -29,12 +29,8 @@ Student at **VIT Chennai** (B.Tech CSE) — turning ideas into shipped, well-eng
 
 | Project | What it does |
 |---------|--------------|
-| 🤖 [**prforge**](https://github.com/daksh1403/prforge) | Agentic PR bot — reads a GitHub issue, writes a fix, runs tests in a sandbox, opens a reviewed PR. LangGraph + SWE-bench + MCP. |
-| 📊 [**gradelens**](https://github.com/daksh1403/gradelens) | MLOps platform predicting VIT CGPA & attendance risk — pipeline + model registry + FastAPI + MLflow + drift monitoring + React dashboard. |
-| 🛡️ [**vigil**](https://github.com/daksh1403/vigil) | Open-source AI-powered AppSec platform — orchestrates scanners (Nuclei, ZAP, Semgrep…) with AI triage, dedup & fix suggestions. |
 | 💻 [**vit-cli**](https://github.com/daksh1403/vit-cli) | VIT Chennai in your terminal — attendance, timetable, grades & CGPA via VTOP. |
 | 🧠 [**NeoVTOP**](https://github.com/daksh1403/NeoVTOP) | VIT StudyAI — AI study companion: VTOP integration, AI tutor, flashcards, quizzes & smart scheduling. |
-| 🏗️ [**System-Smith**](https://github.com/daksh1403/System-Smith) | System design playground for building & simulating distributed architectures. React + FastAPI + Docker. |
 | 📰 [**ai-news-youtube**](https://github.com/daksh1403/ai-news-youtube) | Zero-cost autonomous pipeline that produces 2 AI-news YouTube videos/day, fully hands-off. |
 | 🛸 [**auto-drone**](https://github.com/daksh1403/auto-drone) | Autonomous drone that detects unpainted wall areas and sprays them — Pixhawk + DroneKit + ESP32-CAM. |
 | 🎓 [**daksh-ai-engineer-academy**](https://github.com/daksh1403/daksh-ai-engineer-academy) | A complete, beginner-friendly AI engineering learning path — Python → DevOps → RAG → Agentic AI. |
